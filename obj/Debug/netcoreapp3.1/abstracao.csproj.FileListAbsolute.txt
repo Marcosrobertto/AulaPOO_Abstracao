@@ -1,0 +1,13 @@
+C:\Users\Marcos Roberto\Documents\SENAI\abstracao\obj\Debug\netcoreapp3.1\abstracao.csprojAssemblyReference.cache
+C:\Users\Marcos Roberto\Documents\SENAI\abstracao\obj\Debug\netcoreapp3.1\abstracao.AssemblyInfoInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\abstracao\obj\Debug\netcoreapp3.1\abstracao.AssemblyInfo.cs
+C:\Users\Marcos Roberto\Documents\SENAI\abstracao\obj\Debug\netcoreapp3.1\abstracao.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\abstracao\bin\Debug\netcoreapp3.1\abstracao.exe
+C:\Users\Marcos Roberto\Documents\SENAI\abstracao\bin\Debug\netcoreapp3.1\abstracao.deps.json
+C:\Users\Marcos Roberto\Documents\SENAI\abstracao\bin\Debug\netcoreapp3.1\abstracao.runtimeconfig.json
+C:\Users\Marcos Roberto\Documents\SENAI\abstracao\bin\Debug\netcoreapp3.1\abstracao.runtimeconfig.dev.json
+C:\Users\Marcos Roberto\Documents\SENAI\abstracao\bin\Debug\netcoreapp3.1\abstracao.dll
+C:\Users\Marcos Roberto\Documents\SENAI\abstracao\bin\Debug\netcoreapp3.1\abstracao.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\abstracao\obj\Debug\netcoreapp3.1\abstracao.dll
+C:\Users\Marcos Roberto\Documents\SENAI\abstracao\obj\Debug\netcoreapp3.1\abstracao.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\abstracao\obj\Debug\netcoreapp3.1\abstracao.genruntimeconfig.cache
